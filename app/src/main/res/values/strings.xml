@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Image Loader</string>
+    <string name="load_image_and_save">Load Image And Save</string>
+    <string name="get_image_from_storage_and_show_it">Get Image From Storage And Show It</string>
+    <string name="downloaded_successfully">Image downloaded successfully!</string>
+    <string name="delete_image">Delete Image</string>
+</resources>
